@@ -63,7 +63,7 @@ const Newsletter = () => {
             />
             <button
               type='submit'
-              className='bg-gray-900 cursor-pointer text-white px-8 py-3 font-semibold rounded-md whitespace-nowrap flex items-center justify-center hover:bg-gray-800 transition-colors'
+              className='bg-gray-900 cursor-pointer text-white px-8 py-3 font-semibold rounded-md whitespace-nowrap flex items-center justify-center hover:bg-gray-800 transition-co rs'
             >
               Abone Ol
             </button>
